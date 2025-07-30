@@ -8,12 +8,11 @@ I analyze trends in content release, genre distribution, duration, and more.
 - `data/` – Dataset (`netflix_titles.csv`)
 - `notebooks/` – Jupyter Notebook with the analysis
 - `images/` – Visualizations and charts
-- `src/` – Optional Python helper functions
 
 ## 📊 Tools Used
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
-- Streamlit (optional dashboard)
+- Streamlit (dashboard)
 
 ## 📈 Sample Insights
 - The most common genre on Netflix is Drama
