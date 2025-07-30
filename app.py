@@ -7,7 +7,7 @@ import os
 st.write("Current working directory:", os.getcwd())
 
 # Load the data
-df = pd.read_csv('data/netflix_cleaned.csv')
+df = pd.read_csv('data/netflix_titles.csv')
 
 st.title("🎬 Netflix Movie & TV Show Analysis")
 st.markdown("Explore trends in Netflix's catalog using interactive charts.")
